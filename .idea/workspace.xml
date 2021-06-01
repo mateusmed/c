@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0ab7041-2e77-4f73-85a2-a5290736b474" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/academic/exec4.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +23,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Desenvolvimento/workspace/brasilcap-pagamento" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -42,6 +43,9 @@
       <updated>1617713256605</updated>
       <workItem from="1617713257834" duration="1267000" />
       <workItem from="1617721093832" duration="1483000" />
+      <workItem from="1622551536691" duration="722000" />
+      <workItem from="1622552468441" duration="504000" />
+      <workItem from="1622564107585" duration="1794000" />
     </task>
     <servers />
   </component>
