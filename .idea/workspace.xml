@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0ab7041-2e77-4f73-85a2-a5290736b474" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/academic/exec4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/academic/dataStruture/linkedList.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,9 @@
       <workItem from="1617721093832" duration="1483000" />
       <workItem from="1622551536691" duration="722000" />
       <workItem from="1622552468441" duration="504000" />
-      <workItem from="1622564107585" duration="1794000" />
+      <workItem from="1622564107585" duration="1864000" />
+      <workItem from="1623080745762" duration="161000" />
+      <workItem from="1633007688907" duration="495000" />
     </task>
     <servers />
   </component>
